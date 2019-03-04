@@ -4,7 +4,7 @@ Koa2-blog-vue (欢迎star),
 
 此项目是学习wclimb大佬的Koa2-blog,然后自己将接口全都暴露出来并丰富了一些东西,
 
-比如:增删改查,登录注册,修改详情 [api接口](https://github.com/hbb520/Koa2-blog-vue/blob/master/api.md)
+比如:增删改查,登录注册,修改详情 [api接口](https://github.com/hbb520/Koa2-blog-vue/blob/master/api.md) 可能不完善,详细对应 [Koa2-blog-vue/routers/](https://github.com/hbb520/Koa2-blog-vue/tree/master/routers)
 
 Koa2-blog-vue暴露出来的API也将用于开发各个端的项目,比如PC端,移动H5端,小程序端,混合app端,桌面端
 
